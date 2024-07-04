@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haq-intekhab&label=Profile%20views&color=0e75b6&style=flat" alt="haq-intekhab" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React,Node.js**
 
